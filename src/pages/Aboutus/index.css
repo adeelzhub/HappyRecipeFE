@@ -1,0 +1,38 @@
+body{
+    /* background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab); */
+    background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+}
+
+.tittle{
+    display: flex;
+    justify-content: center;
+    
+}
+.PageLeft{
+   
+
+    flex: 0.5;
+    padding-left: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.PageRight{
+   
+    flex: 0.5;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: right;
+}
+
+
+.Image{
+    width: 400px;
+    height: 400px;
+    display: flex;
+    align-items: flex-start;
+}

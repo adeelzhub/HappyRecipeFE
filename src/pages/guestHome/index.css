@@ -1,0 +1,234 @@
+.cuisine1 {
+    display: flex;
+    justify-content: center;
+    padding-top: 35px;
+}
+
+.american {
+    border-radius: 50% 50% 50% 50%;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 200px;
+    width: 230px;
+}
+
+.AMERICAN {
+    position: absolute;
+    padding-left: 340px;
+    padding-top: 85px;
+    color: white;
+    font-weight: 800;
+    font-size: 25px;
+    left: 10px;
+}
+
+
+.asian {
+    border-radius: 50% 50% 50% 50%;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 200px;
+    width: 230px;
+}
+
+.ASIAN {
+    position: absolute;
+    padding-left: 600px;
+    padding-top: 85px;
+    color: white;
+    font-weight: 800;
+    font-size: 25px;
+    left: 10px;
+}
+
+.barbeque {
+    border-radius: 50%;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 200px;
+    width: 230px;
+}
+
+.BARBEQUE {
+    position: absolute;
+    padding-left: 800px;
+    padding-top: 85px;
+    color: white;
+    font-weight: 800;
+    font-size: 25px;
+    left: 10px;
+}
+
+.german {
+    border-radius: 50% 50% 50% 50%;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 200px;
+    width: 230px;
+}
+
+.GERMAN {
+    position: absolute;
+    padding-left: 1040px;
+    padding-top: 85px;
+    color: white;
+    font-weight: 800;
+    font-size: 25px;
+    left: 10px;
+}
+
+.cuisine2 {
+    display: flex;
+    justify-content: center;
+    padding-top: 35px;
+}
+
+.british {
+    border-radius: 50% 50% 50% 50%;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 200px;
+    width: 230px;
+}
+
+.BRITISH {
+    position: absolute;
+    padding-left: 360px;
+    padding-top: 85px;
+    color: white;
+    font-weight: 800;
+    font-size: 25px;
+    left: 10px;
+}
+
+.chinese {
+    border-radius: 50% 50% 50% 50%;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 200px;
+    width: 230px;
+}
+
+.CHINESE {
+    position: absolute;
+    padding-left: 585px;
+    padding-top: 85px;
+    color: white;
+    font-weight: 800;
+    font-size: 25px;
+    left: 10px;
+}
+
+.indian {
+    border-radius: 50% 50% 50% 50%;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 200px;
+    width: 230px;
+}
+
+.INDIAN {
+    position: absolute;
+    padding-left: 820px;
+    padding-top: 85px;
+    color: white;
+    font-weight: 800;
+    font-size: 25px;
+    left: 10px;
+}
+
+.spanish {
+    border-radius: 50% 50% 50% 50%;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 200px;
+    width: 230px;
+}
+
+.SPANISH {
+    position: absolute;
+    padding-left: 1050px;
+    padding-top: 85px;
+    color: white;
+    font-weight: 800;
+    font-size: 25px;
+    left: 10px;
+}
+
+.cuisine3 {
+    display: flex;
+    justify-content: center;
+    padding-top: 35px;
+}
+
+.italian {
+    border-radius: 50% 50% 50% 50%;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 200px;
+    width: 230px;
+}
+
+.ITALIAN {
+    position: absolute;
+    padding-left: 360px;
+    padding-top: 85px;
+    color: white;
+    font-weight: 800;
+    font-size: 25px;
+    left: 10px;
+}
+
+.mexican {
+    border-radius: 50% 50% 50% 50%;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 200px;
+    width: 230px;
+}
+
+.MEXICAN {
+    position: absolute;
+    padding-left: 570px;
+    padding-top: 85px;
+    color: white;
+    font-weight: 800;
+    font-size: 25px;
+    left: 10px;
+}
+
+.morrocan {
+    border-radius: 50% 50% 50% 50%;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 200px;
+    width: 230px;
+}
+
+.MORROCAN {
+    position: absolute;
+    padding-left: 790px;
+    padding-top: 85px;
+    color: white;
+    font-weight: 800;
+    font-size: 25px;
+    left: 10px;
+}
+
+.thai {
+    border-radius: 50% 50% 50% 50%;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 200px;
+    width: 230px;
+}
+
+.THAI {
+    position: absolute;
+    padding-left: 1060px;
+    padding-top: 85px;
+    color: white;
+    font-weight: 800;
+    font-size: 25px;
+    left: 10px;
+}

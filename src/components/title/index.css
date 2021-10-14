@@ -1,0 +1,17 @@
+.TittleWrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.Text{
+    font-size: 100px;
+
+}
+
+.intro{
+    padding: 50px;
+}
+
+/* .picture{
+    
+} */

@@ -1,0 +1,69 @@
+body{
+    box-sizing: border-box;
+  }
+  .btn{
+      background-color:cornsilk;
+      width:100px;
+        height: 50px;
+    
+    }
+    .main{
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+    }
+   
+    .body{
+      display: flex;
+      height: 100vh;
+    
+    }
+    .leftBody{
+      border: 1px solid gray;
+      width:75%;
+      overflow: hidden;
+      background-size: cover;
+      background-position: center;
+   
+    }
+    .leftBody img{
+      max-width: 100%;
+      height:100%;
+      object-fit: cover;
+  
+    }
+    .inputBlock {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    .inputBlock input{
+      background-color: rgb(159, 174, 175);
+      border: .5px solid rgba(150, 231, 218,.5);
+      font-size: larger;
+      width: 500px;
+      height: 400px;
+      margin: 20px;
+      text-align: center;
+    }
+    /* form :nth-child(2){
+        height: 300px;
+        text-align: center;
+        
+    } */
+    .inputBlock button{
+      background-color: rgba(117, 184, 158,.5);
+      width: 150px;
+      height: 50px;
+    }
+    .rightBody{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+  
+      /* background-color: rgb(240, 255, 255); */
+      border: 1px solid gray;
+      width:50%
+    }

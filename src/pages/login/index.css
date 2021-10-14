@@ -1,0 +1,99 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.loginWrapper {
+    background-color: cadetblue;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.leftSide {
+    /* border: coral; */
+    border-style: solid;
+    background-color: rgba(var(255,255,255),1);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 100vh;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+.loginPlate {
+    margin-top: 25px;
+    margin-left: 20%;
+}
+
+.rightSide {
+    /* border: blue; */
+    border-style: solid;
+    height: 100vh;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    padding-right: 300px;
+}
+
+.loginBox {
+    background-color: #ffffff5b;
+    width: 350px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid rgba(112, 112, 112, 0.5);
+    padding: 15px 40px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.loginForm {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.loginForm input,
+.loginForm button {
+    padding: 10px 10px 10px;
+    border-radius: 5px;
+}
+
+.or {
+    color: #302f2f;
+    font-weight: 600;
+    position: relative;
+    font-size: 14px;
+}
+
+.or::before,
+.or::after {
+    content: "";
+    display: block;
+    width: 110px;
+    height: 1px;
+    position: absolute;
+    background: #302f2f;
+    top: 50%;
+}
+
+.or::before {
+    left: 30px;
+}
+
+.or::after {
+    right: 30px;
+}
+
+.signupBTN {
+    background:#ffffff;
+    margin: 0 auto;
+    border: 1px solid rgba(112, 112, 112, 0.5);
+    padding: 20px;
+    text-align: center;
+    padding: 10px 10px 10px;
+    border-radius: 5px;
+}
